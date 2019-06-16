@@ -40,19 +40,19 @@ jQuery(function ($) {
             "file": "Microphone"
         }, {
             "track": 5,
-            "name": "5. (INTERLUDE - BINTANG)",
+            "name": "5. PROGRAM",
+            "length": "02:36",
+            "file": "Program"
+        } {
+            "track": 6,
+            "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         }, {
-            "track": 6,
-            "name": "6. ENEMY SONG",
+            "track": 7,
+            "name": "7. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
-        }, {
-            "track": 7,
-            "name": "7. PROGRAM",
-            "length": "02:36",
-            "file": "Program"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
