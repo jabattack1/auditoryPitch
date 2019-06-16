@@ -43,7 +43,7 @@ jQuery(function ($) {
             "name": "5. PROGRAM",
             "length": "02:36",
             "file": "Program"
-        } {
+        }, {
             "track": 6,
             "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
