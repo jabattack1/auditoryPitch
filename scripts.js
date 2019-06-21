@@ -25,19 +25,19 @@ jQuery(function ($) {
             "file": "Sun"
         }, {
             "track": 2,
-            "name": "2. TRAFFIC LIGHTS",
-            "length": "04:37",
-            "file": "Traffic"
-        }, {
-            "track": 3,
-            "name": "3. 8 BIT NEMESIS",
+            "name": "2. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         }, {
+            "track": 3,
+            "name": "3. PROGRAM",
+            "length": "04:37",
+            "file": "Program"
+        }, {
             "track": 4,
-            "name": "4. MICROPHONE REBEL SOLO",
-            "length": "03:01",
-            "file": "Microphone"
+            "name": "4. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
         }, {
             "track": 5,
             "name": "5. (INTERLUDE - BINTANG)",
@@ -45,7 +45,12 @@ jQuery(function ($) {
             "file": "Bintang"
         }, {
             "track": 6,
-            "name": "6. ENEMY SONG",
+            "name": "6. MICROPHONE REBEL SOLO",
+            "length": "03:01",
+            "file": "Microphone"
+        }, {
+            "track": 7,
+            "name": "7. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }],
