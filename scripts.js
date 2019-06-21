@@ -29,15 +29,15 @@ jQuery(function ($) {
             "length": "01:50",
             "file": "8Bit"
         }, {
-            "track": 3,
-            "name": "3. PROGRAM",
-            "length": "04:37",
-            "file": "Program"
-        }, {
             "track": 4,
             "name": "4. TRAFFIC LIGHTS",
             "length": "04:37",
             "file": "Traffic"
+        },{
+            "track": 3,
+            "name": "3. PROGRAM",
+            "length": "04:37",
+            "file": "Progra"
         }, {
             "track": 5,
             "name": "5. (INTERLUDE - BINTANG)",
