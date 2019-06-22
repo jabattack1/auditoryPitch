@@ -30,7 +30,7 @@ jQuery(function ($) {
             "file": "8Bit"
         }, {
             "track": 3,
-            "name": "3. PROGRAM - FEATURING GUEST SINGER",
+            "name": "3. PROGRAM (FEATURING GUEST SINGER)",
             "length": "04:37",
             "file": "Progra"
         },{
