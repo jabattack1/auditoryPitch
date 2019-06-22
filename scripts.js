@@ -45,14 +45,14 @@ jQuery(function ($) {
             "file": "Bintang"
         }, {
             "track": 6,
-            "name": "6. MICROPHONE REBEL SOLO",
-            "length": "03:01",
-            "file": "Microphone"
-        }, {
-            "track": 7,
-            "name": "7. ENEMY SONG",
+            "name": "6. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
+        }, {
+            "track": 7,
+            "name": "7. MICROPHONE REBEL SOLO",
+            "length": "03:01",
+            "file": "Microphone"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
