@@ -25,19 +25,19 @@ jQuery(function ($) {
             "file": "Sun"
         }, {
             "track": 2,
-            "name": "2. 8 BIT NEMESIS",
+            "name": "2. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
+        },{
+            "track": 3,
+            "name": "3. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         }, {
-            "track": 3,
-            "name": "3. PROGRAM (FEATURING GUEST SINGER)",
+            "track": 4,
+            "name": "4. PROGRAM (FEATURING GUEST SINGER)",
             "length": "04:37",
             "file": "Progra"
-        },{
-            "track": 4,
-            "name": "4. TRAFFIC LIGHTS",
-            "length": "04:37",
-            "file": "Traffic"
         }, {
             "track": 5,
             "name": "5. (INTERLUDE - BINTANG)",
