@@ -35,7 +35,7 @@ jQuery(function ($) {
             "file": "8Bit"
         }, {
             "track": 4,
-            "name": "4. PROGRAM (FEATURING GUEST SINGER)",
+            "name": "4. I'M THE FIRE",
             "length": "04:37",
             "file": "Progra"
         }, {
