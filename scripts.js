@@ -23,21 +23,21 @@ jQuery(function ($) {
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:16",
             "file": "Sun"
-        }, {
+        },  {
             "track": 2,
-            "name": "2. TRAFFIC LIGHTS",
+            "name": "2. I'M THE FIRE",
             "length": "04:37",
-            "file": "Traffic"
-        },{
+            "file": "Progra"
+        },  {
             "track": 3,
             "name": "3. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
-        }, {
+        },  {
             "track": 4,
-            "name": "4. I'M THE FIRE",
+            "name": "4. TRAFFIC LIGHTS",
             "length": "04:37",
-            "file": "Progra"
+            "file": "Traffic"
         }, {
             "track": 5,
             "name": "5. (INTERLUDE - BINTANG)",
