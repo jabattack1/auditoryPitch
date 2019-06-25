@@ -23,12 +23,12 @@ jQuery(function ($) {
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:16",
             "file": "Sun"
-        },  {
+        },   {
             "track": 2,
-            "name": "2. TRAFFIC LIGHTS",
+            "name": "2. PROGRAM (FEAT. GUEST SINGER)",
             "length": "04:37",
-            "file": "Traffic"
-        },  {
+            "file": "Prog"
+        }, {
             "track": 3,
             "name": "3. 8 BIT NEMESIS",
             "length": "01:50",
@@ -43,9 +43,14 @@ jQuery(function ($) {
             "name": "5. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        }, {
+        },  {
             "track": 6,
-            "name": "6. ENEMY SONG",
+            "name": "6. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
+        },  {
+            "track": 7,
+            "name": "7. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }],
