@@ -38,7 +38,7 @@ jQuery(function ($) {
             "name": "4. TRAFFIC LIGHTS",
             "length": "04:38",
             "file": "Traffic"
-        }  {
+        }, {
             "track": 5,
             "name": "5. (INTERLUDE - BINTANG)",
             "length": "02:53",
@@ -53,7 +53,7 @@ jQuery(function ($) {
             "name": "7. MICROPHONE REBEL SOLO",
             "length": "03:01",
             "file": "Microphone"
-        },],
+        }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
         npTitle = $('#npTitle'),
