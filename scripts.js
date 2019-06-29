@@ -30,25 +30,25 @@ jQuery(function ($) {
             "file": "Prog"
         },  {
             "track": 3,
-            "name": "3. TRAFFIC LIGHTS",
-            "length": "04:41",
-            "file": "Traffic"
-        },  {
-            "track": 4,
-            "name": "4. 8 BIT NEMESIS",
+            "name": "3. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         }, {
-            "track": 5,
-            "name": "5. MICROPHONE REBEL SOLO",
+            "track": 4,
+            "name": "4. MICROPHONE REBEL SOLO",
             "length": "03:01",
             "file": "Microphone"
-        },{
-            "track": 6,
-            "name": "6. (INTERLUDE - BINTANG)",
+        },  {
+            "track": 5,
+            "name": "5. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         }, {
+            "track": 6,
+            "name": "6. TRAFFIC LIGHTS",
+            "length": "04:41",
+            "file": "Traffic"
+        },{
             "track": 7,
             "name": "7. ENEMY SONG",
             "length": "03:49",
