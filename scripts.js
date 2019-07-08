@@ -27,32 +27,42 @@ jQuery(function ($) {
             "track": 2,
             "name": "2. PROGRAM (FEAT. METHOD X)",
             "length": "04:37",
-            "file": "Prog"
+            "file": "Program"
         },  {
             "track": 3,
-            "name": "3. 8 BIT NEMESIS",
+            "name": "3. BIKER (FEAT. J SCALES)",
+            "length": "01:50",
+            "file": "Biker"
+        },    {
+            "track": 4,
+            "name": "4. I'M THE FIRE",
+            "length": "01:50",
+            "file": "Fire"
+        },{
+            "track": 5,
+            "name": "5. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
-        }, {
-            "track": 4,
-            "name": "4. TRAFFIC LIGHTS",
-            "length": "04:38",
-            "file": "Traffic"
-        }, {
-            "track": 5,
-            "name": "5. (INTERLUDE - BINTANG)",
-            "length": "02:53",
-            "file": "Bintang"
         },  {
             "track": 6,
-            "name": "6. ENEMY SONG",
-            "length": "03:49",
-            "file": "Enemy"
-        }, {
-            "track": 7,
-            "name": "7. MICROPHONE REBEL SOLO",
+            "name": "6. MICROPHONE REBEL SOLO",
             "length": "03:01",
             "file": "Microphone"
+        },  {
+            "track": 7,
+            "name": "7. (INTERLUDE - BINTANG)",
+            "length": "02:53",
+            "file": "Bintang"
+        },    {
+            "track": 8,
+            "name": "8. TRAFFIC LIGHTS",
+            "length": "04:38",
+            "file": "Traffic"
+        },{
+            "track": 9,
+            "name": "9. ENEMY SONG",
+            "length": "03:49",
+            "file": "Enemy"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
