@@ -26,7 +26,7 @@ jQuery(function ($) {
         },   {
             "track": 2,
             "name": "2. PROGRAM (FEAT. METHOD X)",
-            "length": "04:37",
+            "length": "02:27",
             "file": "Program"
         },  {
             "track": 3,
@@ -36,7 +36,7 @@ jQuery(function ($) {
         },    {
             "track": 4,
             "name": "4. I'M THE FIRE",
-            "length": "01:50",
+            "length": "02:50",
             "file": "Fire"
         },{
             "track": 5,
