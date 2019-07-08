@@ -25,7 +25,7 @@ jQuery(function ($) {
             "file": "Sun"
         },   {
             "track": 2,
-            "name": "2. PROGRAM (FEAT. METHOD X)",
+            "name": "2. PROGRAM (FEAT. MATTHEW CLANTON",
             "length": "02:27",
             "file": "Program"
         },  {
