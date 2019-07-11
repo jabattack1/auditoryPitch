@@ -35,15 +35,15 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 4,
-            "name": "4. 8 BIT NEMESIS",
-            "length": "01:50",
-            "file": "8Bit"
-        },  {
-            "track": 5,
-            "name": "5. MICROPHONE REBEL SOLO",
+            "name": "4. MICROPHONE REBEL SOLO",
             "length": "03:01",
             "file": "Microphone"
         },  {
+            "track": 5,
+            "name": "5. 8 BIT NEMESIS",
+            "length": "01:50",
+            "file": "8Bit"
+        }, {
             "track": 6,
             "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
