@@ -26,12 +26,12 @@ jQuery(function ($) {
         },   {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
-            "length": "02:27",
+            "length": "02:23",
             "file": "Program"
         },  {
             "track": 3,
             "name": "3. BIKER (FEAT. JACKSON SCALES)",
-            "length": "01:50",
+            "length": "02:08",
             "file": "Biker"
         },  {
             "track": 4,
@@ -51,12 +51,12 @@ jQuery(function ($) {
         },  {
             "track": 7,
             "name": "7. I'M THE FIRE",
-            "length": "02:50",
+            "length": "02:49",
             "file": "Fire"
         },{
             "track": 8,
             "name": "8. TRAFFIC LIGHTS",
-            "length": "04:38",
+            "length": "04:37",
             "file": "Traffic"
         },  {
             "track": 9,
