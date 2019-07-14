@@ -20,14 +20,14 @@ jQuery(function ($) {
         extension = '',
         tracks = [{
             "track": 1,
-            "name": "1. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:08",
-            "file": "Biker"
-        },  {
-            "track": 2,
-            "name": "2. I DON'T WANT TO GO AND SEE THE SUN",
+            "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:17",
             "file": "Sun"
+        },{
+            "track": 2,
+            "name": "2. BIKER (FEAT. JACKSON SCALES)",
+            "length": "02:08",
+            "file": "Biker"
         },  {
             "track": 3,
             "name": "3. PROGRAM (FEAT. MATTHEW CLANTON)",
