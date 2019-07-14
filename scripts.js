@@ -50,14 +50,14 @@ jQuery(function ($) {
             "file": "Bintang"
         },  {
             "track": 7,
-            "name": "7. I'M THE FIRE",
-            "length": "02:49",
-            "file": "Fire"
-        },{
-            "track": 8,
-            "name": "8. TRAFFIC LIGHTS",
+            "name": "7. TRAFFIC LIGHTS",
             "length": "04:37",
             "file": "Traffic"
+        }, {
+            "track": 8,
+            "name": "8. I'M THE FIRE",
+            "length": "02:49",
+            "file": "Fire"
         },  {
             "track": 9,
             "name": "9. ENEMY SONG",
