@@ -40,15 +40,15 @@ jQuery(function ($) {
             "file": "8Bit"
         }, {
             "track": 5,
-            "name": "5. I'M THE FIRE",
-            "length": "02:49",
-            "file": "Fire"
-        }, {
-            "track": 6,
-            "name": "6. MICROPHONE REBEL SOLO",
+            "name": "5. MICROPHONE REBEL SOLO",
             "length": "03:01",
             "file": "Microphone"
-        }, {
+        },{
+            "track": 6,
+            "name": "6. I'M THE FIRE",
+            "length": "02:49",
+            "file": "Fire"
+        },  {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
