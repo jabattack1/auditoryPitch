@@ -23,17 +23,17 @@ jQuery(function ($) {
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:17",
             "file": "Sun"
-        },{
+        }, {
             "track": 2,
-            "name": "2. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:08",
-            "file": "Biker"
-        },  {
-            "track": 3,
-            "name": "3. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:23",
             "file": "Program"
         },  {
+            "track": 3,
+            "name": "3. BIKER (FEAT. GUEST SINGER TBR)",
+            "length": "02:08",
+            "file": "Biker"
+        }, {
             "track": 4,
             "name": "4. TRAFFIC LIGHTS",
             "length": "04:37",
