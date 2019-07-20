@@ -35,9 +35,9 @@ jQuery(function ($) {
             "file": "Biker"
         }, {
             "track": 4,
-            "name": "4. TRAFFIC LIGHTS",
-            "length": "04:37",
-            "file": "Traffic"
+            "name": "4. MICROPHONE REBEL SOLO",
+            "length": "03:01",
+            "file": "Microphone"
         },  {
             "track": 5,
             "name": "5. I'M THE FIRE",
@@ -48,14 +48,14 @@ jQuery(function ($) {
             "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        },  {
+        }, {
             "track": 7,
-            "name": "7. MICROPHONE REBEL SOLO",
-            "length": "03:01",
-            "file": "Microphone"
-        },{
-            "track": 9,
-            "name": "9. ENEMY SONG",
+            "name": "7. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
+        }, {
+            "track": 8,
+            "name": "8. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }],
