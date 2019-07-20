@@ -30,7 +30,7 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 3,
-            "name": "3. BIKER (FEAT. GUEST SINGER)",
+            "name": "3. BIKER (FEAT. SINGER TO BE REPLACED)",
             "length": "02:09",
             "file": "Biker"
         }, {
