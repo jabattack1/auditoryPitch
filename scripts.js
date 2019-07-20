@@ -33,26 +33,26 @@ jQuery(function ($) {
             "name": "3. BIKER (FEAT. GUEST SINGER)",
             "length": "02:09",
             "file": "Biker"
-        }, {
-            "track": 4,
-            "name": "4. MICROPHONE REBEL SOLO",
-            "length": "03:01",
-            "file": "Microphone"
         },  {
-            "track": 5,
-            "name": "5. I'M THE FIRE",
+            "track": 4,
+            "name": "4. I'M THE FIRE",
             "length": "02:49",
             "file": "Fire"
         },  {
+            "track": 5,
+            "name": "5. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
+        }, {
             "track": 6,
             "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        }, {
+        },{
             "track": 7,
-            "name": "7. TRAFFIC LIGHTS",
-            "length": "04:37",
-            "file": "Traffic"
+            "name": "7. MICROPHONE REBEL SOLO",
+            "length": "03:01",
+            "file": "Microphone"
         }, {
             "track": 8,
             "name": "8. ENEMY SONG",
