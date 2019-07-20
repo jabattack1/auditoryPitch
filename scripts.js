@@ -40,15 +40,15 @@ jQuery(function ($) {
             "file": "Fire"
         },  {
             "track": 5,
-            "name": "5. TRAFFIC LIGHTS",
-            "length": "04:37",
-            "file": "Traffic"
-        }, {
-            "track": 6,
-            "name": "6. (INTERLUDE - BINTANG)",
+            "name": "5. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         },{
+            "track": 6,
+            "name": "6. TRAFFIC LIGHTS",
+            "length": "04:37",
+            "file": "Traffic"
+        }, {
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO",
             "length": "03:01",
