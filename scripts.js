@@ -35,15 +35,15 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 4,
-            "name": "4. I'M THE FIRE",
-            "length": "02:48",
-            "file": "Fire"
-        },  {
-            "track": 5,
-            "name": "5. TRAFFIC LIGHTS",
+            "name": "4. TRAFFIC LIGHTS",
             "length": "04:10",
             "file": "Traffic"
-        }, {
+        },   {
+            "track": 5,
+            "name": "5. I'M THE FIRE",
+            "length": "02:48",
+            "file": "Fire"
+        },{
             "track": 6,
             "name": "6. (INTERLUDE - BINTANG)",
             "length": "02:53",
