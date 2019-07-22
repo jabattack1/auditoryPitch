@@ -51,7 +51,7 @@ jQuery(function ($) {
         }, {
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO",
-            "length": "03:01",
+            "length": "03:00",
             "file": "Microphone"
         }, {
             "track": 8,
