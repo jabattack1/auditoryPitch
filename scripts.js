@@ -30,15 +30,15 @@ jQuery(function ($) {
             "file": "Traffic"
         },  {
             "track": 3,
-            "name": "3. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:09",
-            "file": "Biker"
-        },  {
-            "track": 4,
-            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:17",
             "file": "Sun"
-        },  {
+        }, {
+            "track": 4,
+            "name": "4. BIKER (FEAT. JACKSON SCALES)",
+            "length": "02:09",
+            "file": "Biker"
+        }, {
             "track": 5,
             "name": "5. I'M THE FIRE",
             "length": "02:48",
