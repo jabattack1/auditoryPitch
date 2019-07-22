@@ -25,9 +25,9 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 2,
-            "name": "2. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "04:17",
-            "file": "Sun"
+            "name": "2. TRAFFIC LIGHTS",
+            "length": "04:10",
+            "file": "Traffic"
         },  {
             "track": 3,
             "name": "3. BIKER (FEAT. JACKSON SCALES)",
@@ -35,10 +35,10 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 4,
-            "name": "4. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
-        },   {
+            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "04:17",
+            "file": "Sun"
+        },  {
             "track": 5,
             "name": "5. I'M THE FIRE",
             "length": "02:48",
