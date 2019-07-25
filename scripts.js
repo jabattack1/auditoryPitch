@@ -46,7 +46,7 @@ jQuery(function ($) {
         }, {
             "track": 6,
             "name": "6. I'M THE FIRE",
-            "length": "02:29",
+            "length": "02:35",
             "file": "Fire"
         },{
             "track": 7,
