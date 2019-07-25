@@ -18,16 +18,16 @@ jQuery(function ($) {
             playing = false;
         mediaPath = './songs/',
         extension = '',
-        tracks = [{
+        tracks = [  {
             "track": 1,
-            "name": "1. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "04:10",
+            "file": "Sun"
+        },{
+            "track": 2,
+            "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:23",
             "file": "Program"
-        },  {
-            "track": 2,
-            "name": "2. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "04:08",
-            "file": "Sun"
         },  {
             "track": 3,
             "name": "3. 8 BIT NEMESIS",
