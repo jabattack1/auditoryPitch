@@ -25,37 +25,42 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 2,
-            "name": "2. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
-        },  {
-            "track": 3,
-            "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
+            "name": "2. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:08",
             "file": "Sun"
-        }, {
+        },  {
+            "track": 3,
+            "name": "3. 8 BIT NEMESIS",
+            "length": "04:08",
+            "file": "8Bit"
+        },  {
             "track": 4,
-            "name": "4. BIKER (FEAT. JACKSON SCALES)",
+            "name": "4. TRAFFIC LIGHTS",
+            "length": "04:10",
+            "file": "Traffic"
+        }, {
+            "track": 5,
+            "name": "5. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:09",
             "file": "Biker"
         }, {
-            "track": 5,
-            "name": "5. I'M THE FIRE",
+            "track": 6,
+            "name": "6. I'M THE FIRE",
             "length": "02:29",
             "file": "Fire"
         },{
-            "track": 6,
-            "name": "6. (INTERLUDE - BINTANG)",
+            "track": 7,
+            "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         }, {
-            "track": 7,
-            "name": "7. MICROPHONE REBEL SOLO",
+            "track": 8,
+            "name": "8. MICROPHONE REBEL SOLO",
             "length": "03:00",
             "file": "Microphone"
         }, {
-            "track": 8,
-            "name": "8. ENEMY SONG",
+            "track": 9,
+            "name": "9. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }],
