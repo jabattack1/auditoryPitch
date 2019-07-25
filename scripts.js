@@ -31,7 +31,7 @@ jQuery(function ($) {
         },  {
             "track": 3,
             "name": "3. 8 BIT NEMESIS",
-            "length": "04:08",
+            "length": "01:50",
             "file": "8Bit"
         },  {
             "track": 4,
