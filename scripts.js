@@ -45,20 +45,20 @@ jQuery(function ($) {
             "file": "Biker"
         }, {
             "track": 6,
-            "name": "6. I'M THE FIRE",
-            "length": "02:37",
-            "file": "Fire"
-        },{
+            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "length": "03:00",
+            "file": "Microphon"
+        }, {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        }, {
+        },  {
             "track": 8,
-            "name": "8. MICROPHONE REBEL SOLO",
-            "length": "03:00",
-            "file": "Microphone"
-        }, {
+            "name": "8. I'M THE FIRE",
+            "length": "02:37",
+            "file": "Fire"
+        },  {
             "track": 9,
             "name": "9. ENEMY SONG",
             "length": "03:49",
