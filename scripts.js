@@ -43,11 +43,11 @@ jQuery(function ($) {
             "name": "5. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:09",
             "file": "Biker"
-        }, {
+        },  {
             "track": 6,
-            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONI)",
-            "length": "03:00",
-            "file": "Microphon"
+            "name": "6. I'M THE FIRE",
+            "length": "02:29",
+            "file": "Fire"
         }, {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
@@ -55,10 +55,10 @@ jQuery(function ($) {
             "file": "Bintang"
         },  {
             "track": 8,
-            "name": "8. I'M THE FIRE",
-            "length": "02:37",
-            "file": "Fire"
-        },  {
+            "name": "8. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "length": "03:00",
+            "file": "Microphon"
+        }, {
             "track": 9,
             "name": "9. ENEMY SONG",
             "length": "03:49",
