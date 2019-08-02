@@ -30,19 +30,19 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 3,
-            "name": "3. 8 BIT NEMESIS",
-            "length": "01:50",
-            "file": "8Bit"
-        },  {
+            "name": "3. BIKER (FEAT. JACKSON SCALES)",
+            "length": "02:09",
+            "file": "Biker"
+        }, {
             "track": 4,
             "name": "4. TRAFFIC LIGHTS",
             "length": "04:12",
             "file": "Traffic"
-        }, {
+        },  {
             "track": 5,
-            "name": "5. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:09",
-            "file": "Biker"
+            "name": "5. 8 BIT NEMESIS",
+            "length": "01:50",
+            "file": "8Bit"
         },  {
             "track": 6,
             "name": "6. I'M THE FIRE",
