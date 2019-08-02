@@ -57,7 +57,7 @@ jQuery(function ($) {
             "track": 8,
             "name": "8. MICROPHONE REBEL SOLO (FEAT. SONI)",
             "length": "03:00",
-            "file": "Microphon"
+            "file": "Microphone"
         }, {
             "track": 9,
             "name": "9. ENEMY SONG",
