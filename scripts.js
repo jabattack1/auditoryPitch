@@ -21,7 +21,7 @@ jQuery(function ($) {
         tracks = [  {
             "track": 1,
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "04:10",
+            "length": "04:11",
             "file": "Sun"
         },{
             "track": 2,
