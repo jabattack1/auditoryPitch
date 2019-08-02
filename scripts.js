@@ -33,22 +33,22 @@ jQuery(function ($) {
             "name": "3. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:09",
             "file": "Biker"
-        }, {
+        },  {
             "track": 4,
-            "name": "4. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
+            "name": "4. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "length": "03:00",
+            "file": "Microphone"
         },  {
             "track": 5,
             "name": "5. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
-        },  {
-            "track": 6,
-            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONI)",
-            "length": "03:00",
-            "file": "Microphone"
         }, {
+            "track": 6,
+            "name": "6. TRAFFIC LIGHTS",
+            "length": "04:10",
+            "file": "Traffic"
+        },{
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
