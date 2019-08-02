@@ -45,24 +45,24 @@ jQuery(function ($) {
             "file": "8Bit"
         },  {
             "track": 6,
-            "name": "6. I'M THE FIRE",
-            "length": "02:30",
-            "file": "Fire"
+            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "length": "03:00",
+            "file": "Microphone"
         }, {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        },  {
-            "track": 8,
-            "name": "8. MICROPHONE REBEL SOLO (FEAT. SONI)",
-            "length": "03:00",
-            "file": "Microphone"
         }, {
-            "track": 9,
-            "name": "9. ENEMY SONG",
+            "track": 8,
+            "name": "8. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
+        },  {
+            "track": 9,
+            "name": "BONUS - I'M THE FIRE",
+            "length": "02:30",
+            "file": "Fire"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
