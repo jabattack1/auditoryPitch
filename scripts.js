@@ -23,26 +23,26 @@ jQuery(function ($) {
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:11",
             "file": "Sun"
-        },{
+        },  {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:26",
             "file": "Program"
-        },   {
+        },  {
             "track": 3,
-            "name": "3. 8 BIT NEMESIS",
-            "length": "01:50",
-            "file": "8Bit"
+            "name": "3. BIKER (FEAT. JACKSON SCALES)",
+            "length": "02:10",
+            "file": "Biker"
         },  {
             "track": 4,
             "name": "4. MICROPHONE REBEL SOLO (FEAT. SONI)",
             "length": "03:00",
             "file": "Microphone"
-        }, {
+        },  {
             "track": 5,
-            "name": "5. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:10",
-            "file": "Biker"
+            "name": "5. 8 BIT NEMESIS",
+            "length": "01:50",
+            "file": "8Bit"
         }, {
             "track": 6,
             "name": "6. TRAFFIC LIGHTS",
