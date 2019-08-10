@@ -40,15 +40,15 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 5,
-            "name": "5. 8 BIT NEMESIS",
+            "name": "5. TRAFFIC LIGHTS",
+            "length": "04:10",
+            "file": "Traffic"
+        },  {
+            "track": 6,
+            "name": "6. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         }, {
-            "track": 6,
-            "name": "6. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
-        },{
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
