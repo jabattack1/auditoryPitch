@@ -30,14 +30,14 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 3,
-            "name": "3. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:10",
-            "file": "Biker"
-        },  {
-            "track": 4,
-            "name": "4. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "name": "3. MICROPHONE REBEL SOLO (FEAT. SONI)",
             "length": "03:00",
             "file": "Microphone"
+        },  {
+            "track": 4,
+            "name": "4. BIKER (FEAT. JACKSON SCALES)",
+            "length": "02:10",
+            "file": "Biker"
         },  {
             "track": 5,
             "name": "5. 8 BIT NEMESIS",
