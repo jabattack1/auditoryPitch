@@ -45,9 +45,9 @@ jQuery(function ($) {
             "file": "Traffic"
         },  {
             "track": 6,
-            "name": "6. 8 BIT NEMESIS",
-            "length": "01:50",
-            "file": "8Bit"
+            "name": "6. Ventilation",
+            "length": "02:50",
+            "file": "Vent"
         }, {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
@@ -60,7 +60,12 @@ jQuery(function ($) {
             "file": "Enemy"
         },  {
             "track": 9,
-            "name": "BONUS - I'M THE FIRE",
+            "name": "9. 8 BIT NEMESIS",
+            "length": "01:50",
+            "file": "8Bit"
+        },{
+            "track": 10,
+            "name": "10. BONUS - I'M THE FIRE",
             "length": "02:31",
             "file": "Fire"
         }],
