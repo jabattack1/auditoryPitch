@@ -22,7 +22,7 @@ jQuery(function ($) {
             "track": 1,
             "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:11",
-            "file": "Sun"
+            "file": "Su"
         },  {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
@@ -47,7 +47,7 @@ jQuery(function ($) {
             "track": 6,
             "name": "6. 8 BIT NEMESIS",
             "length": "01:50",
-            "file": "8Bit"
+            "file": "8Bi"
         }, {
             "track": 7,
             "name": "7. (INTERLUDE - BINTANG)",
