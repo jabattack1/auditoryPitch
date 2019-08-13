@@ -45,8 +45,8 @@ jQuery(function ($) {
             "file": "Traffic"
         },  {
             "track": 6,
-            "name": "6. Ventilation",
-            "length": "02:50",
+            "name": "6. VENTILATION",
+            "length": "02:44",
             "file": "Vent"
         }, {
             "track": 7,
