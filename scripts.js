@@ -53,17 +53,17 @@ jQuery(function ($) {
             "name": "7. (INTERLUDE - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
-        }, {
-            "track": 8,
-            "name": "8. ENEMY SONG",
-            "length": "03:49",
-            "file": "Enemy"
         },  {
-            "track": 9,
-            "name": "9. 8 BIT NEMESIS",
+            "track": 8,
+            "name": "8. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         },{
+            "track": 9,
+            "name": "9. ENEMY SONG",
+            "length": "03:49",
+            "file": "Enemy"
+        }, {
             "track": 10,
             "name": "10. BONUS - I'M THE FIRE",
             "length": "02:31",
