@@ -50,7 +50,7 @@ jQuery(function ($) {
             "file": "Vent"
         }, {
             "track": 7,
-            "name": "7. (INTERLUDE - BINTANG)",
+            "name": "7. (INTERLUDE 1 - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         },  {
