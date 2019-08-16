@@ -65,7 +65,12 @@ jQuery(function ($) {
             "file": "Enemy"
         }, {
             "track": 10,
-            "name": "10. BONUS - I'M THE FIRE",
+            "name": "10. INTERLUDE 2 (GET THE BAG)",
+            "length": "02:22",
+            "file": "Bag"
+        }, {
+            "track": 11,
+            "name": "11. BONUS - I'M THE FIRE",
             "length": "02:31",
             "file": "Fire"
         }],
