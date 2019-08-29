@@ -48,27 +48,27 @@ jQuery(function ($) {
             "name": "6. VENTILATION",
             "length": "02:44",
             "file": "Vent"
-        }, {
+        },  {
             "track": 7,
             "name": "7. (INTERLUDE 1 - BINTANG)",
             "length": "02:53",
             "file": "Bintang"
         },  {
             "track": 8,
-            "name": "8. 8 BIT NEMESIS",
-            "length": "01:50",
-            "file": "8Bit"
-        },{
-            "track": 9,
-            "name": "9. ENEMY SONG",
+            "name": "8. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }, {
-            "track": 10,
-            "name": "10. INTERLUDE 2 (GET THE BAG)",
+            "track": 9,
+            "name": "9. INTERLUDE 2 (GET THE BAG)",
             "length": "02:22",
             "file": "Bag"
-        }, {
+        },  {
+            "track": 10,
+            "name": "10. 8 BIT NEMESIS",
+            "length": "01:50",
+            "file": "8Bit"
+        },{
             "track": 11,
             "name": "11. BONUS - I'M THE FIRE",
             "length": "02:31",
