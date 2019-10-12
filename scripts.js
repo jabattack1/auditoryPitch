@@ -40,14 +40,14 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 5,
-            "name": "5. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
+            "name": "5. DAYLIGHT ROBBERY",
+            "length": "02:28",
+            "file": "DaylightRobbry"
         },  {
             "track": 6,
-            "name": "6. VENTILATION",
-            "length": "02:44",
-            "file": "Vent"
+            "name": "6. TRAFFIC LIGHTS",
+            "length": "04:10",
+            "file": "Traffic"
         },  {
             "track": 7,
             "name": "7. (INTERLUDE 1 - BINTANG)",
@@ -55,22 +55,27 @@ jQuery(function ($) {
             "file": "Bintang"
         },  {
             "track": 8,
-            "name": "8. ENEMY SONG",
+            "name": "8. VENTILATION",
+            "length": "02:44",
+            "file": "Vent"
+        },  {
+            "track": 9,
+            "name": "9. ENEMY SONG",
             "length": "03:49",
             "file": "Enemy"
         }, {
-            "track": 9,
-            "name": "9. INTERLUDE 2 (GET THE BAG)",
+            "track": 10,
+            "name": "10. INTERLUDE 2 (GET THE BAG)",
             "length": "02:22",
             "file": "Bag"
         },  {
-            "track": 10,
-            "name": "10. 8 BIT NEMESIS",
+            "track": 11,
+            "name": "11. 8 BIT NEMESIS",
             "length": "01:50",
             "file": "8Bit"
         },{
-            "track": 11,
-            "name": "11. BONUS - I'M THE FIRE",
+            "track": 12,
+            "name": "12. BONUS - I'M THE FIRE",
             "length": "02:31",
             "file": "Fire"
         }],
