@@ -42,7 +42,7 @@ jQuery(function ($) {
             "track": 5,
             "name": "5. DAYLIGHT ROBBERY",
             "length": "02:28",
-            "file": "DaylightRobbry"
+            "file": "DaylightRobbery"
         },  {
             "track": 6,
             "name": "6. TRAFFIC LIGHTS",
