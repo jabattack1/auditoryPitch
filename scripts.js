@@ -41,7 +41,7 @@ jQuery(function ($) {
         },  {
             "track": 5,
             "name": "5. DAYLIGHT ROBBERY",
-            "length": "02:29",
+            "length": "02:31",
             "file": "DaylightRobbery"
         },  {
             "track": 6,
