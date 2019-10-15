@@ -31,7 +31,7 @@ jQuery(function ($) {
         },  {
             "track": 3,
             "name": "3. DAYLIGHT ROBBERY",
-            "length": "02:31",
+            "length": "02:18",
             "file": "DaylightRobbery"
         },  {
             "track": 4,
