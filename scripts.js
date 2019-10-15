@@ -18,11 +18,11 @@ jQuery(function ($) {
             playing = false;
         mediaPath = './songs/',
         extension = '',
-        tracks = [  {
+        tracks = [    {
             "track": 1,
-            "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "04:11",
-            "file": "Sun"
+            "name": "1. DAYLIGHT ROBBERY",
+            "length": "02:18",
+            "file": "DaylightRobbery"
         },  {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
@@ -30,10 +30,10 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 3,
-            "name": "3. DAYLIGHT ROBBERY",
-            "length": "02:18",
-            "file": "DaylightRobbery"
-        },  {
+            "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "04:11",
+            "file": "Sun"
+        },{
             "track": 4,
             "name": "4. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:10",
