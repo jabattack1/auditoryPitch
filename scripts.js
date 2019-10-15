@@ -30,9 +30,9 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 3,
-            "name": "3. MICROPHONE REBEL SOLO (FEAT. SONI)",
-            "length": "03:00",
-            "file": "Microphone"
+            "name": "3. DAYLIGHT ROBBERY",
+            "length": "02:31",
+            "file": "DaylightRobbery"
         },  {
             "track": 4,
             "name": "4. BIKER (FEAT. JACKSON SCALES)",
@@ -40,10 +40,10 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 5,
-            "name": "5. DAYLIGHT ROBBERY",
-            "length": "02:31",
-            "file": "DaylightRobbery"
-        },  {
+            "name": "5. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "length": "03:00",
+            "file": "Microphone"
+        },{
             "track": 6,
             "name": "6. TRAFFIC LIGHTS",
             "length": "04:10",
