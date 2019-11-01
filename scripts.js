@@ -33,36 +33,21 @@ jQuery(function ($) {
             "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:11",
             "file": "Sun"
-        },{
+        },  {
             "track": 4,
-            "name": "4. BIKER (FEAT. JACKSON SCALES)",
+            "name": "4. NBDY",
+            "length": "03:00",
+            "file": "NBDY"
+        },  {
+            "track": 5,
+            "name": "5. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:10",
             "file": "Biker"
         },  {
-            "track": 5,
-            "name": "5. MICROPHONE REBEL SOLO (FEAT. SONI)",
+            "track": 6,
+            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:00",
             "file": "Microphone"
-        },  {
-            "track": 6,
-            "name": "6. (INTERLUDE 1 - BINTANG)",
-            "length": "02:53",
-            "file": "Bintang"
-        },  {
-            "track": 7,
-            "name": "7. TRAFFIC LIGHTS",
-            "length": "04:10",
-            "file": "Traffic"
-        }, {
-            "track": 8,
-            "name": "8. ENEMY SONG",
-            "length": "03:49",
-            "file": "Enemy"
-        }, {
-            "track": 9,
-            "name": "9. INTERLUDE 2 (GET THE BAG)",
-            "length": "02:22",
-            "file": "Bag"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
