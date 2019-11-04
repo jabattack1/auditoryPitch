@@ -35,7 +35,7 @@ jQuery(function ($) {
             "file": "Sun"
         },  {
             "track": 4,
-            "name": "4. NBDY",
+            "name": "4. NBDY Vocalize",
             "length": "03:00",
             "file": "NBDY"
         },  {
