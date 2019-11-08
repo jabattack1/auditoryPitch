@@ -46,7 +46,7 @@ jQuery(function ($) {
         },  {
             "track": 6,
             "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
-            "length": "03:00",
+            "length": "03:03",
             "file": "Microphone"
         }],
         trackCount = tracks.length,
