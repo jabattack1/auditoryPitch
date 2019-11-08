@@ -37,12 +37,12 @@ jQuery(function ($) {
             "track": 4,
             "name": "4. NOBODY",
             "length": "02:36",
-            "file": "Nobody"
+            "file": "Nobodyy"
         },  {
             "track": 5,
             "name": "5. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:02",
-            "file": "Biker"
+            "file": "Bikers"
         },  {
             "track": 6,
             "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
