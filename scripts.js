@@ -36,12 +36,12 @@ jQuery(function ($) {
         },  {
             "track": 4,
             "name": "4. NOBODY",
-            "length": "03:00",
+            "length": "02:36",
             "file": "Nobody"
         },  {
             "track": 5,
             "name": "5. BIKER (FEAT. JACKSON SCALES)",
-            "length": "02:10",
+            "length": "02:02",
             "file": "Biker"
         },  {
             "track": 6,
