@@ -22,7 +22,7 @@ jQuery(function ($) {
             "track": 1,
             "name": "1. DAYLIGHT ROBBERY",
             "length": "02:18",
-            "file": "Daylight"
+            "file": "Daylights"
         },  {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
