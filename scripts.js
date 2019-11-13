@@ -22,7 +22,7 @@ jQuery(function ($) {
             "track": 1,
             "name": "1. DAYLIGHT ROBBERY",
             "length": "02:18",
-            "file": "Daylight"
+            "file": "Daylights"
         },  {
             "track": 2,
             "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
@@ -42,7 +42,7 @@ jQuery(function ($) {
             "track": 5,
             "name": "5. BIKER (FEAT. JACKSON SCALES)",
             "length": "02:02",
-            "file": "Biker"
+            "file": "Bikers"
         },  {
             "track": 6,
             "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
