@@ -50,7 +50,7 @@ jQuery(function ($) {
             "file": "Microphone"
         },  {
             "track": 7,
-            "name": "7. 8 BIT NEMESIS",
+            "name": "7. 8 BIT NEMESIS (FEAT. T.G.)",
             "length": "01:51",
             "file": "8Bit"
         }],
