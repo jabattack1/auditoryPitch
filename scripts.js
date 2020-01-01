@@ -25,34 +25,34 @@ jQuery(function ($) {
             "file": "Daylight"
         },  {
             "track": 2,
-            "name": "2. PROGRAM (FEAT. MATTHEW CLANTON)",
-            "length": "02:26",
-            "file": "Program"
-        },  {
+            "name": "2. 8 BIT NEMESIS (FEAT. T.G.)",
+            "length": "01:51",
+            "file": "8Bit"
+        } {
             "track": 3,
             "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "03:57",
             "file": "Sun"
         },  {
             "track": 4,
-            "name": "4. NOBODY",
+            "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "length": "02:26",
+            "file": "Program"
+        },{
+            "track": 5,
+            "name": "5. NOBODY",
             "length": "02:24",
             "file": "Nobody"
         },  {
-            "track": 5,
-            "name": "5. BIKER (FEAT. JACKSON SCALES)",
+            "track": 6,
+            "name": "6. BIKER (FEAT. JACKSON SCALES)",
             "length": "01:51",
             "file": "Biker"
         },  {
-            "track": 6,
-            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
+            "track": 7,
+            "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
             "file": "Microphone"
-        },  {
-            "track": 7,
-            "name": "7. 8 BIT NEMESIS (FEAT. T.G.)",
-            "length": "01:51",
-            "file": "8Bit"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
