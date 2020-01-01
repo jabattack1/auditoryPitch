@@ -28,7 +28,7 @@ jQuery(function ($) {
             "name": "2. 8 BIT NEMESIS (FEAT. T.G.)",
             "length": "01:51",
             "file": "8Bit"
-        } {
+        }, {
             "track": 3,
             "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "03:57",
