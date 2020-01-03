@@ -25,30 +25,30 @@ jQuery(function ($) {
             "file": "Daylight"
         },  {
             "track": 2,
-            "name": "2. 8 BIT NEMESIS (FEAT. T.G.)",
+            "name": "2. BIKER (FEAT. JACKSON SCALES)",
             "length": "01:51",
-            "file": "8Bit"
+            "file": "Biker"
         }, {
             "track": 3,
-            "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:57",
-            "file": "Sun"
-        },  {
-            "track": 4,
-            "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "name": "3. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:26",
             "file": "Program"
-        },{
+        },  {
+            "track": 4,
+            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:57",
+            "file": "Sun"
+        }, {
             "track": 5,
             "name": "5. NOBODY",
             "length": "02:24",
             "file": "Nobody"
         },  {
             "track": 6,
-            "name": "6. BIKER (FEAT. JACKSON SCALES)",
+            "name": "6. 8 BIT NEMESIS (FEAT. T.G.)",
             "length": "01:51",
-            "file": "Biker"
-        },  {
+            "file": "8Bit"
+        },{
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
