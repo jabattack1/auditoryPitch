@@ -45,7 +45,7 @@ jQuery(function ($) {
             "file": "Nobody"
         },  {
             "track": 6,
-            "name": "6. Starlights (FEAT. T.G.)",
+            "name": "6. STARLIGHTS (FEAT. T.G.)",
             "length": "01:51",
             "file": "Star"
         },{
