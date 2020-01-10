@@ -35,20 +35,20 @@ jQuery(function ($) {
             "file": "Sun"
         },  {
             "track": 4,
-            "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
-            "length": "02:26",
-            "file": "Program"
-        }, {
+            "name": "4. STARLIGHTS (FEAT. T.G.)",
+            "length": "01:51",
+            "file": "Star"
+        },  {
             "track": 5,
             "name": "5. NOBODY",
             "length": "02:24",
             "file": "Nobody"
         },  {
             "track": 6,
-            "name": "6. STARLIGHTS (FEAT. T.G.)",
-            "length": "01:51",
-            "file": "Star"
-        },{
+            "name": "6. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "length": "02:26",
+            "file": "Program"
+        },  {
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
