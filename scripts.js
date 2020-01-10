@@ -45,7 +45,7 @@ jQuery(function ($) {
             "file": "Nobody"
         },  {
             "track": 6,
-            "name": "6. 8 BIT NEMESIS (FEAT. T.G.)",
+            "name": "6. Starlights (FEAT. T.G.)",
             "length": "01:51",
             "file": "8Bit"
         },{
