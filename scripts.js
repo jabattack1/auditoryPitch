@@ -47,7 +47,7 @@ jQuery(function ($) {
             "track": 6,
             "name": "6. Starlights (FEAT. T.G.)",
             "length": "01:51",
-            "file": "8Bit"
+            "file": "Star"
         },{
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
