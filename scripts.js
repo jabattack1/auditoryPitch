@@ -40,15 +40,15 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 5,
-            "name": "5. NOBODY",
+            "name": "5. STARLIGHTS (FEAT. T.G.)",
+            "length": "01:51",
+            "file": "Star"
+        },  {
+            "track": 6,
+            "name": "6. NOBODY",
             "length": "02:24",
             "file": "Nobody"
         },  {
-            "track": 6,
-            "name": "6. STARLIGHTS (FEAT. T.G.)",
-            "length": "01:51",
-            "file": "Star"
-        },{
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
