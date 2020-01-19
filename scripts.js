@@ -35,15 +35,15 @@ jQuery(function ($) {
             "file": "Sun"
         },  {
             "track": 4,
-            "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
-            "length": "02:26",
-            "file": "Program"
-        },  {
-            "track": 5,
-            "name": "5. STARLIGHTS (FEAT. T.G.)",
+            "name": "4. STARLIGHTS (FEAT. T.G.)",
             "length": "01:51",
             "file": "Star"
         },  {
+            "track": 5,
+            "name": "5. PROGRAM (FEAT. MATTHEW CLANTON)",
+            "length": "02:26",
+            "file": "Program"
+        },{
             "track": 6,
             "name": "6. NOBODY",
             "length": "02:24",
