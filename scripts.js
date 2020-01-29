@@ -28,16 +28,16 @@ jQuery(function ($) {
             "name": "2. BIKER (FEAT. JACKSON SCALES)",
             "length": "01:51",
             "file": "Biker"
-        },  {
+        },    {
             "track": 3,
-            "name": "3. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:57",
-            "file": "Sun"
-        },  {
-            "track": 4,
-            "name": "4. STARLIGHTS (FEAT. T.G.)",
+            "name": "3. STARLIGHTS (FEAT. T.G.)",
             "length": "01:51",
             "file": "Star"
+        },  {
+            "track": 4,
+            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:57",
+            "file": "Sun"
         },  {
             "track": 5,
             "name": "5. PROGRAM (FEAT. MATTHEW CLANTON)",
