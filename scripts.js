@@ -32,7 +32,7 @@ jQuery(function ($) {
             "track": 3,
             "name": "3. STARLIGHTS",
             "length": "02:15",
-            "file": "Starlight"
+            "file": "Starlights"
         }, {
             "track": 4,
             "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
