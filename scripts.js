@@ -35,20 +35,20 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 4,
-            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "name": "4. BIKER (FEAT. JACKSON SCALES)",
+            "length": "01:51",
+            "file": "Biker"
+        },  {
+            "track": 5,
+            "name": "5. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "04:01",
             "file": "Sun"
         }, {
-            "track": 5,
-            "name": "5. NOBODY",
+            "track": 6,
+            "name": "6. NOBODY",
             "length": "02:24",
             "file": "Nobody"
         },  {
-            "track": 6,
-            "name": "6. BIKER (FEAT. JACKSON SCALES)",
-            "length": "01:51",
-            "file": "Biker"
-        },{
             "track": 7,
             "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
