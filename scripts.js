@@ -43,14 +43,9 @@ jQuery(function ($) {
             "name": "5. NOBODY",
             "length": "02:24",
             "file": "Nobody"
-        },  {
+        }, {
             "track": 6,
-            "name": "6. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "04:01",
-            "file": "Sun"
-        },  {
-            "track": 7,
-            "name": "7. MICROPHONE REBEL SOLO (FEAT. SONY)",
+            "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
             "file": "Microphone"
         }],
