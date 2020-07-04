@@ -38,12 +38,12 @@ jQuery(function ($) {
             "name": "4. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:26",
             "file": "Program"
-        }, {
+        },  {
             "track": 5,
             "name": "5. NOBODY",
             "length": "02:36",
             "file": "Nobody"
-        }, {
+        },  {
             "track": 6,
             "name": "6. MICROPHONE REBEL SOLO (FEAT. SONY)",
             "length": "03:03",
