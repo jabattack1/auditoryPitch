@@ -37,7 +37,7 @@ jQuery(function ($) {
             "track": 4,
             "name": "4. JUICE",
             "length": "02:19",
-            "file": "Wacko"
+            "file": "Juice"
         },  {
             "track": 5,
             "name": "5. BIKER (FEAT. JACKSON SCALES)",
