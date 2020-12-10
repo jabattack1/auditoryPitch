@@ -50,7 +50,7 @@ jQuery(function ($) {
             "file": "Wacko"
         }, {
             "track": 7,
-            "name": "7. NOBODY",
+            "name": "7. NOBODY (FEAT. J FOX)",
             "length": "02:23",
             "file": "Nobody"
         },  {
