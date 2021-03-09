@@ -55,9 +55,9 @@ jQuery(function ($) {
             "file": "Nobody"
         },  {
             "track": 8,
-            "name": "8. MICROPHONE REBEL SOLO (FEAT. SONY)",
-            "length": "03:03",
-            "file": "Microphone"
+            "name": "8. The Lion",
+            "length": "02:13",
+            "file": "Lion"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
