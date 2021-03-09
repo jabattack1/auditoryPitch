@@ -55,7 +55,7 @@ jQuery(function ($) {
             "file": "Nobody"
         },  {
             "track": 8,
-            "name": "8. The Lion",
+            "name": "8. THE LION",
             "length": "02:13",
             "file": "Lion"
         }],
