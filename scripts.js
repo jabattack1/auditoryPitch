@@ -35,7 +35,7 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 4,
-            "name": "4. I GOT THE JUICE",
+            "name": "4. GOT THE JUICE",
             "length": "02:16",
             "file": "Juice"
         },  {
