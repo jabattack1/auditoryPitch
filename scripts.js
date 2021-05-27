@@ -45,14 +45,14 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 6,
-            "name": "6. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:38",
-            "file": "Sun"
-        },  {
-            "track": 7,
-            "name": "7. WACKO",
+            "name": "6. WACKO",
             "length": "01:48",
             "file": "Wacko"
+        },  {
+            "track": 7,
+            "name": "7. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:38",
+            "file": "Sun"
         },  {
             "track": 8,
             "name": "8. NOBODY (FEAT. J FOX)",
