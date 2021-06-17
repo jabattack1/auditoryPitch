@@ -50,7 +50,7 @@ jQuery(function ($) {
             "file": "Wacko"
         },  {
             "track": 7,
-            "name": "7. I DON'T WANT TO GO AND SEE THE SUN",
+            "name": "7. I DON'T WANT TO GO AND SEE THE SUN (FEAT. GUEST SINGER)",
             "length": "03:38",
             "file": "Sun"
         },  {
