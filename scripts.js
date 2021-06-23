@@ -55,7 +55,7 @@ jQuery(function ($) {
             "file": "Sun"
         },  {
             "track": 8,
-            "name": "8. NOBODY (FEAT. J FOX)",
+            "name": "8. NOBODY",
             "length": "02:00",
             "file": "Nobody"
         }],
