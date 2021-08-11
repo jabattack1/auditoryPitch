@@ -40,24 +40,24 @@ jQuery(function ($) {
             "file": "Juice"
         },  {
             "track": 5,
-            "name": "5. WACKO",
+            "name": "5. NOBODY",
+            "length": "02:00",
+            "file": "Nobody"
+        },  {
+            "track": 6,
+            "name": "6. WACKO",
             "length": "01:48",
             "file": "Wacko"
         },  {
-            "track": 6,
-            "name": "6. BIKER (FEAT. OLLIE)",
+            "track": 7,
+            "name": "7. BIKER (FEAT. OLLIE)",
             "length": "02:15",
             "file": "Biker"
         },  {
-            "track": 7,
-            "name": "7. I DON'T WANT TO GO AND SEE THE SUN (FEAT. GUEST SINGER)",
+            "track": 8,
+            "name": "8. I DON'T WANT TO GO AND SEE THE SUN (FEAT. GUEST SINGER)",
             "length": "03:38",
             "file": "Sun"
-        },  {
-            "track": 8,
-            "name": "8. NOBODY",
-            "length": "02:00",
-            "file": "Nobody"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
