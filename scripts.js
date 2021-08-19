@@ -40,14 +40,14 @@ jQuery(function ($) {
             "file": "Juice"
         },  {
             "track": 5,
-            "name": "5. NOBODY",
-            "length": "02:00",
-            "file": "Nobody"
-        },  {
-            "track": 6,
-            "name": "6. WACKO",
+            "name": "5. WACKO",
             "length": "01:48",
             "file": "Wacko"
+        },  {
+            "track": 6,
+            "name": "6. NOBODY",
+            "length": "02:00",
+            "file": "Nobody"
         },  {
             "track": 7,
             "name": "7. BIKER (FEAT. OLLIE)",
