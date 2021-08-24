@@ -45,9 +45,9 @@ jQuery(function ($) {
             "file": "Wacko"
         },  {
             "track": 6,
-            "name": "6. NOBODY",
-            "length": "02:00",
-            "file": "Nobody"
+            "name": "6. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:38",
+            "file": "Sun"
         },  {
             "track": 7,
             "name": "7. BIKER (FEAT. OLLIE)",
@@ -55,9 +55,9 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 8,
-            "name": "8. I DON'T WANT TO GO AND SEE THE SUN (FEAT. GUEST SINGER)",
-            "length": "03:38",
-            "file": "Sun"
+            "name": "8. NOBODY",
+            "length": "02:00",
+            "file": "Nobody"
         }],
         trackCount = tracks.length,
         npAction = $('#npAction'),
