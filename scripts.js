@@ -50,7 +50,7 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 7,
-            "name": "7. I DON'T WANT TO GO AND SEE THE SUN (FEAT. OLAWALE)",
+            "name": "7. I DON'T WANT TO GO AND SEE THE SUN",
             "length": "03:38",
             "file": "Sun"
         },  {
