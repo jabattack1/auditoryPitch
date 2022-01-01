@@ -35,9 +35,9 @@ jQuery(function ($) {
             "file": "Program"
         },  {
             "track": 4,
-            "name": "4. WACKO",
-            "length": "01:48",
-            "file": "Wacko"
+            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:14",
+            "file": "Sun"
         },  {
             "track": 5,
             "name": "5. JUICE",
@@ -50,9 +50,9 @@ jQuery(function ($) {
             "file": "Biker"
         },  {
             "track": 7,
-            "name": "7. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:38",
-            "file": "Sun"
+            "name": "7. WACKO",
+            "length": "01:48",
+            "file": "Wacko"
         },  {
             "track": 8,
             "name": "8. NOBODY",
