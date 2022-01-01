@@ -36,7 +36,7 @@ jQuery(function ($) {
         },  {
             "track": 4,
             "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:14",
+            "length": "03:15",
             "file": "Sun"
         },  {
             "track": 5,
