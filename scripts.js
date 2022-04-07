@@ -18,11 +18,11 @@ jQuery(function ($) {
             playing = false;
         mediaPath = './songs/',
         extension = '',
-        tracks = [    {
+        tracks = [{
             "track": 1,
-            "name": "1. DAYLIGHT ROBBERY",
-            "length": "02:18",
-            "file": "Daylight"
+            "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:10",
+            "file": "Sun"
         },  {
             "track": 2,
             "name": "2. STARLIGHTS",
@@ -33,29 +33,29 @@ jQuery(function ($) {
             "name": "3. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:26",
             "file": "Program"
-        },  {
+        },   {
             "track": 4,
-            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:15",
-            "file": "Sun"
-        },  {
-            "track": 5,
-            "name": "5. JUICE",
+            "name": "4. JUICE",
             "length": "02:07",
             "file": "Juice"
         },  {
-            "track": 6,
-            "name": "6. BIKER (FEAT. OLLIE)",
+            "track": 5,
+            "name": "5. BIKER (FEAT. OLLIE)",
             "length": "02:15",
             "file": "Biker"
-        },  {
-            "track": 7,
-            "name": "7. WACKO",
+        },   {
+            "track": 6,
+            "name": "6. WACKO",
             "length": "01:48",
             "file": "Wacko"
         },  {
+            "track": 7,
+            "name": "7. DAYLIGHT ROBBERY",
+            "length": "02:18",
+            "file": "Daylight"
+        },  {
             "track": 8,
-            "name": "8. NOBODY",
+            "name": "8. NBDY",
             "length": "02:00",
             "file": "Nobody"
         }],
