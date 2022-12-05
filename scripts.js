@@ -20,43 +20,43 @@ jQuery(function ($) {
         extension = '',
         tracks = [{
             "track": 1,
-            "name": "1. I DON'T WANT TO GO AND SEE THE SUN",
-            "length": "03:10",
-            "file": "Sun"
+            "name": "1. DAYLIGHT ROBBERY",
+            "length": "02:18",
+            "file": "Daylight"
         },  {
             "track": 2,
             "name": "2. STARLIGHTS",
-            "length": "02:16",
+            "length": "02:17",
             "file": "Starlights"
-        },   {
+        },  {
             "track": 3,
             "name": "3. PROGRAM (FEAT. MATTHEW CLANTON)",
             "length": "02:26",
             "file": "Program"
-        },   {
+        },  {
             "track": 4,
-            "name": "4. JUICE",
+            "name": "4. I DON'T WANT TO GO AND SEE THE SUN",
+            "length": "03:10",
+            "file": "Sun"
+        },  {
+            "track": 5,
+            "name": "5. JUICE",
             "length": "02:07",
             "file": "Juice"
         },  {
-            "track": 5,
-            "name": "5. BIKER (FEAT. OLLIE)",
-            "length": "02:15",
-            "file": "Biker"
-        },   {
             "track": 6,
-            "name": "6. WACKO",
-            "length": "01:48",
-            "file": "Wacko"
+            "name": "6. BIKER (FEAT. OLLIE)",
+            "length": "01:38",
+            "file": "Biker"
         },  {
             "track": 7,
-            "name": "7. DAYLIGHT ROBBERY",
-            "length": "02:18",
-            "file": "Daylight"
+            "name": "7. WACKO",
+            "length": "01:50",
+            "file": "Wacko"
         },  {
             "track": 8,
             "name": "8. NBDY",
-            "length": "02:00",
+            "length": "01:46",
             "file": "Nobody"
         }],
         trackCount = tracks.length,
